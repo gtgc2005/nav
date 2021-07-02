@@ -38,7 +38,7 @@ const c: IConfig = {
   // 用在 Side 主题一级、二级菜单图标展示
   iconfontUrl: '//at.alicdn.com/t/font_2522843_wl70o31sy6.js',
 
-  // 百度统计地址
+  // 百度统计地址，
   // https://tongji.baidu.com/web/welcome/login
   baiduStatisticsUrl: 'https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba',
 
